@@ -1,2 +1,2 @@
 # py.code
-This is Python programs and projects Repository.
+This is Python programs and Data Structure Repository.
